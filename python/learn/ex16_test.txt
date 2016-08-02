@@ -1,0 +1,5 @@
+close -closes the file.
+read -reads the contents of the file.
+readline -reads just one line of a text file.
+truncate -empties the file.
+write('stuff') -writes "stuff" to the file.
